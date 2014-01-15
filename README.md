@@ -1,4 +1,4 @@
-coye
+COYE
 ====
 
 Exchange for various altcoins.
